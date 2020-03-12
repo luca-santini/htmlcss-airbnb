@@ -1,23 +1,36 @@
 * {
-  margin:0;
-  padding:0;
-  box-sizing: border-box;
+   margin:0;
+   padding:0;
+   box-sizing: border-box;
 }
-
 #casa-albero {
-    background-image:url("casa-albero.jpg");
-    width: 20vw;
-    height: 20vh;
+    background-image:url("img/casa-albero.jpg");
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 50%;
+    height: 683px;
     position: relative;
 }
 #casa-lago {
-    background-image:url("casa-lago.jpg");
-    width: 20vw;
-    height: 20vh;
+    background-image:url("img/casa-lago.jpg");
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 50%;
+    height: 683px;
     position: relative;
 }
 #casa-montagna {
-    background-image:url("casa-montagna.jpg");
-    width: 20vw;
-    height: 20vh;
+    background-image:url("img/casa-montagna.jpg");
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 50%;
+    height: 683px;
+    position: relative;
+}
+h1 {
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
