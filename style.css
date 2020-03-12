@@ -1,0 +1,23 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+#casa-albero {
+    background-image:url("casa-albero.jpg");
+    width: 20vw;
+    height: 20vh;
+    position: relative;
+}
+#casa-lago {
+    background-image:url("casa-lago.jpg");
+    width: 20vw;
+    height: 20vh;
+    position: relative;
+}
+#casa-montagna {
+    background-image:url("casa-montagna.jpg");
+    width: 20vw;
+    height: 20vh;
+}
